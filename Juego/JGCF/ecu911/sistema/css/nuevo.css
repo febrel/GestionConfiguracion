@@ -1,0 +1,30 @@
+.delete{
+    color: #151515;
+    font-size: 25px;
+    
+}
+
+.editar{
+    color: #151515;
+    font-size: 25px;
+}
+
+.reporte{
+    color: #151515;
+    font-size: 25px;
+}
+
+.reporte:hover{
+    color: #04B45F;
+    font-size: 26px;
+}
+
+.delete:hover{
+    color: #FA5858;
+    font-size: 26px;
+}
+
+.editar:hover{
+    color:  #0040FF;
+    font-size: 26px;
+}
